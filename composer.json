@@ -1,0 +1,14 @@
+{
+    "name": "rezamansouri/hello-world",
+    "authors": [
+        {
+            "name": "rezamansouri"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
