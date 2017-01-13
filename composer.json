@@ -1,0 +1,15 @@
+{
+    "name": "tutorialspoint/hello-world",
+    "authors": [
+        {
+            "name": "tutorialspoint"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
+
